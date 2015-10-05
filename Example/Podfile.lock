@@ -10,13 +10,13 @@ PODS:
   - SDWebImage/Core (3.7.3)
 
 DEPENDENCIES:
-  - Appboy-iOS-SDK (from `./../../Appboy-iOS-SDK/`)
+  - Appboy-iOS-SDK (from `./../Appboy-iOS-SDK/`)
   - KKColorListPicker (from `git@github.com:leoru/KKColorListPicker.git`)
   - NUI (from `https://github.com/tombenner/nui.git`)
 
 EXTERNAL SOURCES:
   Appboy-iOS-SDK:
-    :path: ./../../Appboy-iOS-SDK/
+    :path: "./../Appboy-iOS-SDK/"
   KKColorListPicker:
     :git: git@github.com:leoru/KKColorListPicker.git
   NUI:
