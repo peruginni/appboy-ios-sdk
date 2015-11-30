@@ -14,7 +14,7 @@
 #import <UIKit/UIKit.h>
 
 #ifndef APPBOY_SDK_VERSION
-#define APPBOY_SDK_VERSION @"2.17.0"
+#define APPBOY_SDK_VERSION @"2.17.0_Extra_Push_Logging"
 #endif
 
 @class ABKInAppMessageController;
